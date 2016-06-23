@@ -1,4 +1,5 @@
-=== Recipe Schema Markup ===
+**Recipe Schema Markup**
+ 
 Contributors: buymeapie.com, based on Yumprint Recipe Card
 Tags: recipe, recipe template, hrecipe, schema.org, seo
 Requires at least: 3.0
@@ -9,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create good looking printable recipes. With Recipe Schema Markup your recipes are optimized for search engines.
 
-== Description ==
+**Description**
 
 Create good looking printable recipes. With Recipe Schema Markup your recipes are optimized for search engines.
 
@@ -36,7 +37,7 @@ You can easily disable the *display* of both nutrition information with the reci
 Recipe Schema Markup will display properly on all browsers; however, the Recipe Schema Markup editor requires Chrome, Safari, Firefox, Opera, or IE9+.
 
 
-== Installation ==
+**Installation**
 
 Install the Recipe Schema Markup Plugin using the built-in WordPress plugin installer. If you download the Recipe Schema Markup Plugin manually, upload it to "/wp-content/plugins/".
 
