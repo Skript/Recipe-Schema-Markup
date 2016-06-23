@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Buymeapie Recipe\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Buymeapie\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7\n"
+"Language: en_US\n"
+
+msgid "%"
+msgstr ""
+
+msgid "Adapted from"
+msgstr ""
+
+msgid "Amount Per Serving"
+msgstr ""
+
+msgid "By"
+msgstr ""
+
+msgid "Calories"
+msgstr ""
+
+msgid "Fat"
+msgstr ""
+
+msgid "Protein"
+msgstr ""
+
+msgid "Сarbs"
+msgstr ""
+
+msgid "Ingredients"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Nutrition Facts"
+msgstr ""
+
+msgid "Cook Time"
+msgstr ""
+
+msgid "Prep Time"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Add ingredients to shopping list"
+msgstr ""
+
+msgid "If you don’t have Buy Me a Pie! app installed you’ll see the list with ingredients right after downloading it"
+msgstr ""
+
+msgid "Serves"
+msgstr ""
+
+msgid "Serving Size"
+msgstr ""
+
+msgid "Total Time"
+msgstr ""
+
+msgid "Wordpress Recipe Plugin"
+msgstr ""
+
+msgid "Yields"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "cal"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "hr"
+msgstr ""

@@ -1,0 +1,947 @@
+.blog-buymeapie-box-shadow {
+    -webkit-box-shadow: rgba(34, 25, 25, 0.4) 0 1px 3px;
+    -moz-box-shadow: rgba(34, 25, 25, 0.4) 0 1px 3px;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+}
+
+.blog-buymeapie-recipe {
+    display: block;
+    line-height: 125%;
+    position: relative;
+    padding: 30px;
+    color: black;
+    margin: 20px 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.blog-buymeapie-recipe a,
+.blog-buymeapie-recipe a:hover {
+    box-shadow: none !important;
+}
+
+.blog-buymeapie-condensed.blog-buymeapie-recipe {
+	padding: 15px;
+}
+
+.blog-buymeapie-close .blog-buymeapie-cancel {
+    display: none;
+}
+
+/* Title Section */
+
+.blog-buymeapie-recipe .blog-buymeapie-recipe-title {
+    position: relative;
+    font-size: 1.6em;
+    line-height: 150%;
+    font-weight: 200;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-recipe-title {
+	margin-bottom: 5px;
+}
+
+.blog-buymeapie-recipe  .blog-buymeapie-photo-top {
+    position: relative;
+    float: right;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 0 20px 15px;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-photo-top {
+    margin: 0 0 10px 10px;
+}
+
+.blog-buymeapie-recipe img.blog-buymeapie-photo-top-large {
+    margin-bottom: 30px;
+    position: relative;
+    max-width: 100%;
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    border-radius: 0 !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-recipe-summary {
+    line-height: 150%;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-recipe-summary {
+	line-height: 125%;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-serves {
+    margin-bottom: 5px;
+    line-height: 150%;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-serves {
+    margin-bottom: 0px;
+    line-height: 125%;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-spacer {
+    height: 20px;
+    width: 100%;
+    position: relative;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-spacer {
+    height: 15px;   
+}
+
+/* action bar */
+
+.blog-buymeapie-recipe .blog-buymeapie-header {
+    position: relative;
+    width: auto;
+    display: table;
+    overflow: auto;
+    margin-top: 20px;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-header {
+	margin-top: 15px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-action {
+    border-radius: 3px;
+    line-height: normal;
+    vertical-align: middle;
+    display: inline-block; 
+    padding: 7px 15px;
+    cursor: pointer;
+    position: relative;
+    font-size: 13px;
+    border: none;
+    margin: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.blog-buymeapie-recipe .blog-buymeapie-print {
+    margin-left: 0px;
+    margin-right: 15px;
+    float: none;
+}
+
+/* info bar */
+
+.blog-buymeapie-recipe .blog-buymeapie-info-bar {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-info-bar {
+	height: 40px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-infobar-section {
+    width: 33.3%;
+    min-height: 50px;
+    position: relative;
+    float: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-infobar-section {
+	min-height: 40px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-infobar-section-title, .blog-buymeapie-recipe .blog-buymeapie-infobar-section-data {
+    width: 100%;
+    min-height: 25px;
+    text-align: center;
+    position: relative;
+    float: left;
+    line-height: 25px
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-infobar-section-title, .blog-buymeapie-condensed .blog-buymeapie-infobar-section-data {
+    line-height: 20px;
+    min-height: 20px;
+}
+
+/* info-box */
+
+.blog-buymeapie-recipe .blog-buymeapie-info-box {
+    width: 180px;
+    position: relative;
+    float: right;
+    margin: 30px 0 20px 20px;
+    padding: 15px 15px 0 15px;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-info-box {
+	margin: 15px 0 15px 15px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-infobox-section {
+    width: 100%;
+    height: 25px;
+    position: relative;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-infobox-section {
+	height: 15px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-infobox-section-title, .blog-buymeapie-recipe .blog-buymeapie-infobox-section-data {
+    width: 80px;
+    margin: 0 5px;
+    height: 15px;
+    position: relative;
+    float: left;
+    line-height: 15px;
+    text-align: right;
+}
+
+/* nutrition facts */
+
+#blog-buymeapie-nutrition-card .blog-buymeapie-dialog-title, #blog-buymeapie-reviews-dialog .blog-buymeapie-dialog-title {
+    display: none;
+}
+
+.blog-buymeapie-nutrition-box {
+     border: 2px solid black;
+     width: 230px;
+     padding: 5px;
+     display: inline-block;
+     position: relative;
+     float: right;
+}
+
+.blog-buymeapie-recipe-contents .blog-buymeapie-nutrition-box {
+    margin: 30px 0 20px 20px;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-nutrition-box {
+	margin: 15px 0 15px 15px;
+}
+
+.blog-buymeapie-nutrition-header {
+     font-size: 24px;
+     display: inline-block;
+     width: 100%;
+     text-align: center;
+     font-weight: bold;
+}
+
+.blog-buymeapie-nutrition-very-thick-line {
+     border-top: 10px solid black;
+}
+
+.blog-buymeapie-nutrition-item {
+     padding: 2px 0;
+     clear: both;
+     height: 14px;
+     font-size: 12px;
+     text-align: left;
+     box-sizing: content-box !important;
+}
+
+.blog-buymeapie-nutrition-vitamin-wrap {
+	width: 45%;
+	display: inline-block;
+}
+
+.blog-buymeapie-nutrition-vitamin-left {
+	margin-right: 8%;
+}
+
+.blog-buymeapie-nutrition-vitamin {
+	float: left;
+	white-space: nowrap;
+}
+
+.blog-buymeapie-nutrition-vitamin-value {
+	float: right;
+}
+
+.blog-buymeapie-nutrition-thick-line {
+     border-top: 3px solid black;
+}
+
+.blog-buymeapie-nutrition-line {
+     border-top: 1px solid black;
+    text-align: left;
+}
+.blog-buymeapie-nutrition-right {
+     float: right;
+     display: inline-block;
+}
+
+.blog-buymeapie-nutrition-left {
+     float: left;
+     display: inline-block;
+}
+
+.blog-buymeapie-nutrition-bold {
+     font-weight: bold;
+}
+
+.blog-buymeapie-nutrition-indent {
+     margin-left: 20px;
+}
+
+.blog-buymeapie-nutrition-last-item {
+     font-size: 10px;
+     padding: 5px 0;
+}
+
+.blog-buymeapie-nutrition-top-line {
+     border-top: 1px solid black;
+}
+
+.blog-buymeapie-nutrition-italic {
+     font-style: italic;
+}
+
+/* recipe contents */
+
+.blog-buymeapie-recipe .blog-buymeapie-recipe-contents {
+    position: relative;
+    clear: both;
+    text-align: left;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-subheader {
+    margin-bottom: 15px;
+    font-size: 1.25em;
+    text-transform: lowercase;
+    font-weight: 200;
+    line-height: 150%;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-note-section, .blog-buymeapie-recipe .blog-buymeapie-note-section .blog-buymeapie-subheader {
+	clear: both;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-subheader {
+    margin-bottom: 5px;
+} 
+
+.blog-buymeapie-recipe .blog-buymeapie-ingredients, .blog-buymeapie-recipe .blog-buymeapie-methods, .blog-buymeapie-recipe .blog-buymeapie-notes {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style-position: inside !important;
+    list-style-type: none !important;
+}
+
+.blog-buymeapie-numbered-ingredients .blog-buymeapie-ingredients, .blog-buymeapie-numbered-methods .blog-buymeapie-methods, .blog-buymeapie-numbered-notes .blog-buymeapie-notes {
+    list-style-type: decimal !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-ingredients li, .blog-buymeapie-recipe .blog-buymeapie-methods li, .blog-buymeapie-recipe .blog-buymeapie-notes li {
+    list-style-position: inside !important;
+    list-style-type: none !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-ingredients,
+.blog-buymeapie-recipe .blog-buymeapie-ingredients li {
+    list-style-type: disc !important;   
+}
+
+.blog-buymeapie-numbered-ingredients .blog-buymeapie-ingredients li, .blog-buymeapie-numbered-methods .blog-buymeapie-methods li, .blog-buymeapie-numbered-notes .blog-buymeapie-notes li {
+    list-style-type: decimal !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-ingredient-item, .blog-buymeapie-recipe .blog-buymeapie-method-item, .blog-buymeapie-recipe .blog-buymeapie-note-item {
+    margin-left: 0 !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-ingredient-item {
+    margin: 4px 0 0 0 !important;
+    padding: 0 0 0 15px !important;
+    text-indent: -15px !important;
+    line-height: 150% !important;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-ingredient-item {
+    margin: 0px !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-method-item, .blog-buymeapie-recipe .blog-buymeapie-note-item {
+    line-height: 150% !important;
+    margin: 15px 0 0 0 !important;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-method-item, .blog-buymeapie-condensed .blog-buymeapie-note-item {
+	line-height: 125% !important;
+	margin: 5px 0 0 0;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-method-section, .blog-buymeapie-recipe .blog-buymeapie-ingredient-section, .blog-buymeapie-recipe .blog-buymeapie-note-section {
+    margin: 30px 0;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-method-section, .blog-buymeapie-condensed .blog-buymeapie-ingredient-section, .blog-buymeapie-condensed .blog-buymeapie-note-section {
+    margin: 15px 0;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-photo-middle {
+    position: relative;
+    float: right;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 30px 0 20px 20px;
+}
+
+.blog-buymeapie-side-by-side .blog-buymeapie-ingredient-section {
+    width: 270px;
+    position: relative;
+    float: left;
+    clear: left;
+}
+
+.blog-buymeapie-side-by-side .blog-buymeapie-method-section {
+    margin-left: 290px;
+    position: relative;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-adapted, .blog-buymeapie-recipe .blog-buymeapie-author {
+    width: 100%;
+    position: relative;
+    margin-top: 15px;  
+    clear: both;    
+    text-align: left;
+}
+
+/* nutrition bar */
+
+.blog-buymeapie-recipe .blog-buymeapie-nutrition-bar {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin-top: 30px;
+    clear: both;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-nutrition-bar {
+	margin-top:15px;
+	height: 40px;
+}
+
+.blog-buymeapie-nutrition-border {
+    width: 100%;
+    position: relative;
+    clear: both;
+    margin-bottom: 30px;
+}
+
+.blog-buymeapie-nutrition-section {
+    width: 25%;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-nutrition-section {
+	height: 40px;
+}
+
+.blog-buymeapie-nutrition-section-title, .blog-buymeapie-nutrition-section-data {
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    float: left;
+    line-height: 25px
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-nutrition-section-title, .blog-buymeapie-condensed .blog-buymeapie-nutrition-section-data {
+    height: 20px;
+    line-height: 20px;
+}
+
+.blog-buymeapie-nutrition-beta {
+    width: 10%;
+    line-height: 25px;
+    height: 25px;
+    position: relative;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.blog-buymeapie-nutrition-label-beta {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.blog-buymeapie-report-error {
+    font-size: 10px;
+    text-decoration: none;
+    float: right;
+}
+
+.blog-buymeapie-nutrition-more {
+    width: 10%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    line-height: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-nutrition-more {
+    height: 20px;
+    line-height: 20px;	
+}
+
+/* branding */
+
+.blog-buymeapie-recipe .blog-buymeapie-brand {
+    font-size: 12px;
+    color: rgb(150,150,150);
+    margin-top: 20px;
+    clear: both;
+    text-align: left;
+}
+
+.blog-buymeapie-condensed .blog-buymeapie-brand {
+    margin-top: 15px;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-brand a, .blog-buymeapie-recipe .blog-buymeapie-brand a:visited, .blog-buymeapie-recipe .blog-buymeapie-brand a:hover {
+    font-size: 12px !important;
+    color: rgb(150,150,150) !important;
+    text-decoration: none !important;
+}
+
+.blog-buymeapie-recipe .blog-buymeapie-brand a:hover {
+    text-decoration: underline !important;
+}
+
+/* source */
+
+.blog-buymeapie-recipe .blog-buymeapie-recipe-source {
+	display: none;
+}
+
+/* turn on/off */
+
+.blog-buymeapie-recipe .blog-buymeapie-adapted-print, .blog-buymeapie-recipe .blog-buymeapie-creator, .blog-buymeapie-recipe .blog-buymeapie-review-count, .blog-buymeapie-recipe .blog-buymeapie-blogger-options, .blog-buymeapie-recipe .blog-buymeapie-info-box, .blog-buymeapie-recipe .blog-buymeapie-recipe-published, .blog-buymeapie-recipe .blog-buymeapie-photo-middle, .blog-buymeapie-recipe .blog-buymeapie-nutrition-box, .blog-buymeapie-recipe img.blog-buymeapie-photo-top-large {
+    display: none;
+}
+
+.blog-buymeapie-stat-focus .blog-buymeapie-info-box {
+	display: block;
+}
+
+.blog-buymeapie-stat-focus .blog-buymeapie-info-bar {
+	display: none;
+}
+
+.blog-buymeapie-nutrition-focus .blog-buymeapie-nutrition-box, .blog-buymeapie-dialog-contents .blog-buymeapie-nutrition-box {
+	display: inline-block;
+}
+
+.blog-buymeapie-nutrition-focus .blog-buymeapie-nutrition-bar, .blog-buymeapie-nutrition-focus .blog-buymeapie-nutrition-border {
+	display: none;
+}
+
+.blog-buymeapie-medium-image .blog-buymeapie-photo-middle {
+	display: inline-block;
+}
+
+.blog-buymeapie-medium-image .blog-buymeapie-photo-top {
+	display: none;
+}
+
+.blog-buymeapie-big-image img.blog-buymeapie-photo-top-large {
+	display: inline-block;
+}
+
+.blog-buymeapie-big-image .blog-buymeapie-photo-top {
+	display: none;
+}
+
+/* phone css */
+
+@media only screen and (max-width: 699px) {
+    .blog-buymeapie-header, .blog-buymeapie-info-bar, .blog-buymeapie-info-box, .blog-buymeapie-nutrition-bar, .blog-buymeapie-nutrition-box, .blog-buymeapie-photo-top, .blog-buymeapie-photo-middle {
+        /*display: none !important;*/
+    }
+    
+    .blog-buymeapie-ingredient-section {
+	    width: auto !important;
+	    position: relative !important;
+	    float: none !important !important;
+	    clear: left !important;
+	}
+	
+	.blog-buymeapie-method-section, .blog-buymeapie-note-section, .blog-buymeapie-adapted, .blog-buymeapie-author, .blog-buymeapie-brand {
+	    margin-left: 0 !important;
+	    /*float: left !important;*/
+	    position: relative !important;
+	    clear: left !important;
+	}	
+	
+	.blog-buymeapie-nutrition-border {
+	   margin-top: 20px !important;
+	   float: left !important;
+	}
+	
+	.blog-buymeapie-recipe {
+        padding: 30px 0 !important;
+	    overflow: hidden !important;
+        display: inline-block !important; /* Necessary to trigger "hasLayout" in IE */
+        display: block !important; /* Sets element back to block */
+	} 
+}
+
+/*Stars*/
+
+.blog-buymeapie-stars-filled, .blog-buymeapie-stars-filled-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+.blog-buymeapie-stars-filled-hover {
+    display: none;
+}
+
+.blog-buymeapie-star-container:hover .blog-buymeapie-stars-filled-hover {
+	display: block;
+}
+
+.blog-buymeapie-star-container:hover .blog-buymeapie-stars-filled {
+	display: none;
+}
+
+.preview .blog-buymeapie-star-container:hover .blog-buymeapie-stars-filled {
+	display: block;
+}
+
+.blog-buymeapie-stars-empty {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.blog-buymeapie-star-container {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    float: left;  
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star {
+    display: inline-block;
+    background-image: url(../images/stars.png);
+    background-position: 0 0;
+    margin-right: 1px;
+    position: relative;
+    float: left;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-partial {
+    background: none;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-selectable {
+    cursor: pointer;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-unselected {
+    background-position: 0 0;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-selected {
+    background-position: 100% 0;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-off {
+    background-position: 0 0;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star.blog-buymeapie-on {
+    background-position: 100% 0;
+}
+
+.blog-buymeapie-star-container .blog-buymeapie-star .blog-buymeapie-star-left, .blog-buymeapie-star-container .blog-buymeapie-star .blog-buymeapie-star-right {
+    display: inline-block;
+    background-image: url(../images/stars.png);
+}
+
+.blog-buymeapie-stars-reviews {
+    display: block;
+    height: 35px;
+    position: relative;
+    width: 120px;
+    float: right;
+    text-align: right;
+}
+
+.blog-buymeapie-star-wrapper {
+    overflow: auto;
+    display: inline-block;
+    height: 20px;
+    width: 84px;
+    float: right;
+}
+
+.blog-buymeapie-write-review {
+    cursor: pointer;
+    clear: both;
+    position: relative;
+    width: 100%;
+    height: 15px;
+    line-height: 15px;
+    font-size: 13px;
+    text-align: right;
+    float: right;
+}
+
+/*Dialogs*/
+
+.blog-buymeapie-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: none;
+    margin: 0 ;
+    padding: 0 40px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.blog-buymeapie-overlay-dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, .75);
+    z-index: 10000;
+    display: table;
+}
+
+.blog-buymeapie-dialog-wrapper {
+    display: table-cell;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.blog-buymeapie-dialog {
+    position: relative;
+    display: inline-block;
+    border-radius: 5px;
+    z-index: 100000;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-overflow-scrolling:touch; 
+    overflow: auto;
+}
+
+.blog-buymeapie-overlay-box {
+    padding: 10px;
+    background-color: white;
+    position: fixed;
+    top: 60px;
+    bottom: 60px;
+    border-radius: 5px;
+    z-index: 100001;
+}
+
+.blog-buymeapie-dialog-contents {
+    position: relative;
+    overflow: auto;
+}
+
+.blog-buymeapie-dialog-title {
+    font-size: 1.25em;
+    position: relative;
+    float: left;
+    clear: both;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-right: 50px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    word-wrap: normal;
+    padding: 10px;
+    text-align:left;
+}
+
+.blog-buymeapie-dialog .blog-buymeapie-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.blog-buymeapie-gray {
+    color: #ffffff;
+    background-color: rgb(150,144,141);   
+}
+
+.blog-buymeapie-gray:hover {
+    color: #ffffff;
+    background-color: rgb(169,165,170);    
+}
+
+.blog-buymeapie-close {
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url(../images/close.png);
+    border-radius: 10px;
+    cursor: pointer;        
+}
+
+/*PermaLink*/
+
+.blog-buymeapie-blogger-options {
+    width: 150px;
+    height:40px;
+    position: absolute;
+    right: 0;
+    top: -115px;
+    border: none;
+    margin: 0 ;
+    padding: 0; 
+}
+
+/*Reviews*/
+
+.blog-buymeapie-recipe-review-item {
+    position: relative;
+    clear: left;
+    padding: 10px;
+}
+
+.blog-buymeapie-recipe-review-item .star-container {
+    cursor: default;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-review-owner .blog-buymeapie-image {
+    width: 40px;
+    height: 40px;
+    background-size: 100%;
+    position: relative;
+    float: left;
+    display: inline-block;
+    border: 1px solid white;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-review-owner:hover .blog-buymeapie-image {
+    border-color: #FB0;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-review-owner {
+    cursor: pointer;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-review-owner .blog-buymeapie-text {
+    position: relative;
+    float: left;
+    display: inline-block;
+    margin-left: 10px;
+    height: 42px;
+    line-height: 42px;
+    vertical-align: middle;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-review-owner .blog-buymeapie-text:hover {
+    color: #FB0;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-star-container {
+    position: relative;
+    float: left;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 12px;
+    font-size: 1.25em;
+}
+
+.blog-buymeapie-recipe-review-item .blog-buymeapie-time {
+    position: relative;
+    float: left;
+    display: inline-block;
+    margin-left: 10px;
+    height: 42px;
+    line-height: 42px;
+    vertical-align: middle;
+    font-size: 13px;
+    cursor: default;
+}
+
+/* default font color for buttons */
+
+.blog-buymeapie-recipe div.blog-buymeapie-import, .blog-buymeapie-recipe div.blog-buymeapie-print {
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.blog-buymeapie-recipe div.blog-buymeapie-import {
+    margin: 20px auto;
+    display: none;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    vertical-align: middle;
+}
+
+div.blog-buymeapie-import a {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    min-height: 32px;
+    background: url(http://buymeapie.com/images/logo.png) no-repeat 100% 50%;
+    background-size: 32px;
+    padding: 0 40px 0 0;
+    vertical-align: middle;
+    box-shadow: none;
+}
+div.blog-buymeapie-import a div { padding: 9px 0; }
+div.blog-buymeapie-import-text { 
+     margin-bottom: 20px;
+} 
+
+.blog-buymeapie-recipe .photo {
+    display: block;
+    position: absolute;
+    top: -10000px;
+    left: -10000px;
+}

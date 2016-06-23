@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Buymeapie Recipe\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: Buymeapie\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : "
+"2);\n"
+"Language: ru\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "Adapted from"
+msgstr "По материалам:"
+
+msgid "Amount Per Serving"
+msgstr "Размер порции"
+
+msgid "By"
+msgstr "Автор"
+
+msgid "Calories"
+msgstr "Калорий"
+
+msgid "Fat"
+msgstr "Жиры"
+
+msgid "Protein"
+msgstr "Белки"
+
+msgid "Carbs"
+msgstr "Углеводы"
+
+msgid "Ingredients"
+msgstr "Ингредиенты"
+
+msgid "Instructions"
+msgstr "Способ приготовления"
+
+msgid "Notes"
+msgstr "Примечания"
+
+msgid "Nutrition Facts"
+msgstr "Пищевая ценность"
+
+msgid "Cook Time"
+msgstr "Время приготовления"
+
+msgid "Prep Time"
+msgstr "Время на подготовку"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Add ingredients to shopping list"
+msgstr "Добавить продукты в список"
+
+msgid "If you don’t have Buy Me a Pie! app installed you’ll see the list with ingredients right after downloading it"
+msgstr "Если у вас еще нет приложения \"Купи батон!\", вы увидите список ингредиентов сразу после его установки"
+
+msgid "Serves"
+msgstr "Кол-во порций"
+
+msgid "Serving Size"
+msgstr "Размер порции"
+
+msgid "Total Time"
+msgstr "Суммарное время"
+
+msgid "Wordpress Recipe Plugin"
+msgstr "Плагин рецептов Wordpress"
+
+msgid "Yields"
+msgstr "Порций"
+
+msgid "by"
+msgstr "автор"
+
+msgid "cal"
+msgstr "ккал"
+
+msgid "g"
+msgstr "г"
+
+msgid "min"
+msgstr "мин"
+
+msgid "hr"
+msgstr "ч"
